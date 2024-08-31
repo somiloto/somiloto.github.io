@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://somiloto.github.io/sitemap.html.gz
+Sitemap: https://somiloto.github.io/app/sitemap.html.gz
+Sitemap: https://somiloto.github.io/assets/sitemap.html.gz
+Sitemap: https://somiloto.github.io/css/sitemap.html.gz
+Sitemap: https://somiloto.github.io/includes/sitemap.html.gz
+Sitemap: https://somiloto.github.io/item/sitemap.html.gz
+Sitemap: https://somiloto.github.io/src/sitemap.html.gz
